@@ -1,0 +1,91 @@
+body {
+  /* margin: 20px; */
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: sans-serif;
+  color: #45809E;   
+  background-image: url("01_1920.jpg");
+}
+
+li {
+  list-style-type: none;
+}
+
+.list {
+  font-size: 20px;
+}
+
+html {
+  padding: 50px;
+}
+
+.container {
+  padding: 30px 0px 30px 0px;
+}
+
+#myaudio {
+  width: 85%;
+}
+
+
+.container-description {
+  padding-top : 30px;
+  padding-bottom: 200px;
+}
+
+.container-list {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.currentPlay {
+  font-size: 20px;
+}
+
+.buttonsApp {
+  text-align:center;
+}
+
+#playbutton {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#playDetails {
+  margin-right : 10px;
+}
+
+#backforButton {
+  margin-right : 10px;
+  margin-bottom: 10px;
+}
+
+
+#analyser {
+  width:500px;
+  height:300px;
+  background: #002D3C;
+  float:left;
+}
+
+
+.bar-wrapper {
+  height: 300px;
+  position: relative;
+}
+ 
+.bar {
+  position: relative;
+  bottom: 0;
+  width: 5px;
+  display: inline-block;
+  border: 1px solid red;
+  height: 5px;
+  border-bottom: 3px solid #fff;
+}
+
+
